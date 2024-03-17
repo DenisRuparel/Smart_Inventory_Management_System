@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "@syncfusion/ej2-react-calendars": "^24.2.8",
+    "axios": "^1.6.8",
     "bootstrap": "^5.3.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
     "react-router-dom": "^6.22.2",
     "react-toastify": "^10.0.4",
     "reactdom": "^2.0.0",

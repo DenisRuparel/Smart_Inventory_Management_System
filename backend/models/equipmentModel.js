@@ -18,14 +18,10 @@ const equipmentSchema = new mongoose.Schema(
       required: [true, "Please add a type"],
     },
 
-    used_date: {
-        type: Date,
-        required: [true, "Please add a used date"],
-    },
-
     equipment_status: {
         type: String,
         required: [true, "Please add a Status"],
+        default: "working",
     },
 
     description: {

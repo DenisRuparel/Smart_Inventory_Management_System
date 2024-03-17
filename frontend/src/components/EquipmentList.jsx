@@ -133,7 +133,7 @@ function EquipmentsList() {
                                                 <a className="me-3" href="/admin/editequipment">
                                                     <img src="../assets/img/icons/edit.svg" alt="img" />
                                                 </a>
-                                                <a className="confirm-text" href="/">
+                                                <a className="confirm-text">
                                                     <img src="../assets/img/icons/delete.svg" alt="img" />
                                                 </a>
                                             </td>
